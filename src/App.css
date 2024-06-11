@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -26,6 +26,31 @@
 
 .App-link {
   color: #61dafb;
+}
+
+table {
+  width: 500px;
+}
+
+tr {
+  width:300%;
+}
+
+.Table-Header{
+  background-color: blue;
+  font-size: 12px;
+}
+
+.Name-List { 
+  font-size: 12px;
+  color: blue;
+}
+
+.Name-Card {
+  width: 400px;
+  background-color: whitesmoke;
+  padding: 8;
+  border-radius: 0 5px;
 }
 
 @keyframes App-logo-spin {
